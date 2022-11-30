@@ -1,0 +1,7 @@
+﻿  proyecto fin.cpp
+C:\Users\KIKERMAT\Desktop\proyecto fin\proyecto fin.cpp(9,9): warning C4101: 'limitei': variable local sin referencia
+C:\Users\KIKERMAT\Desktop\proyecto fin\proyecto fin.cpp(10,9): warning C4101: 'NsumatoriaNincr': variable local sin referencia
+C:\Users\KIKERMAT\Desktop\proyecto fin\proyecto fin.cpp(14,6): warning C4101: 'e': variable local sin referencia
+C:\Users\KIKERMAT\Desktop\proyecto fin\proyecto fin.cpp(9,27): warning C4101: 'incr': variable local sin referencia
+C:\Users\KIKERMAT\Desktop\proyecto fin\proyecto fin.cpp(9,18): warning C4101: 'limitef': variable local sin referencia
+  proyecto fin.vcxproj -> C:\Users\KIKERMAT\Desktop\proyecto fin\Debug\proyecto fin.exe
